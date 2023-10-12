@@ -7,8 +7,8 @@ import { Typography, Card, CardContent,
   demoChannelTitle, demoChannelUrl } from '../utils/constants'
 
 
-function VideoCard({ video: { id: { videoId }, snippet} }) {
-  console.log(videoId, snippet)
+function VideoCard({ video: { id: { videoId }, snippet } }) {
+
   return (
     <Card sx={{ width: {md: '320px', xs: '100%'},
     boxShadow: 'none', borderRadius: 'none'}}>
