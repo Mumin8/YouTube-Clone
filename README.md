@@ -36,6 +36,7 @@ my-youtube-project/
 │   └── index.js         # Entry point
 │── package.json         # Dependencies and scripts
 │── README.md            # Documentation
+
 ⚙️ Installation & Setup
 Clone the repository
 
